@@ -1,0 +1,18 @@
+spring-boot-junit-mockito-hamcrest
+
+Projeto Base: Desenvolvimento de testes unitários para validar uma API REST de gerenciamento estoques de cerveja
+Spring BootTDD
+
+Desenvolvi este projeto em Java 11 com Spring Boot versão 2.5.1 na IDE IntelliJ Idea, graças a Digital Innovation One através do professor Rodrigo Peleias. Na minha versão, implementei uma API Rest simples para gerenciar estudantes.
+
+=====================================
+
+spring-java-tdd-heroku
+
+Projeto Base: Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot
+
+REST API with Spring Boot for registering and managing books and deploying them in the cloud (Heroku). The API has been documented with SpringFox Swagger 2. The API status is monitored by the Spring Actuator.
+
+=====================================
+
+
