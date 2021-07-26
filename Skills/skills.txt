@@ -1,0 +1,20 @@
+Java
+
+Object-relational mapping (ORM)
+
+Scrum
+
+Git
+
+Linux
+
+Javascript
+Node JS
+React JS
+
+Docker
+
+SQL
+SQL Server
+PostreSQL
+MongoDB
