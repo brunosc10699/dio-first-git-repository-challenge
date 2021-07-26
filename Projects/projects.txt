@@ -15,4 +15,11 @@ REST API with Spring Boot for registering and managing books and deploying them 
 
 =====================================
 
+dio-first-git-repository-challenge
 
+Projeto Base: Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+GitHub
+
+This project consists of versioning a list with all achievements, skills and projects developed in Digital Innovation One courses.
+
+=====================================
