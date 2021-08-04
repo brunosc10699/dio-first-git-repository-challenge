@@ -4,11 +4,15 @@ Introdução ao framework Spring Boot
 
 Introdução a orientação a objetos com Java
 
+Introdução ao JUnit 5
+
 Criando API Gateways no ambiente Azure Spring Cloud
 
 Conheça o Carrefour
 
 Lógica de programação essencial
+
+Boas-vindas ao Bootcamp Everis Site Reliability Engineer Essentials
 
 Desafio prático: Criando uma API em Node.js para gerenciar seus crushes
 
@@ -48,6 +52,8 @@ Programação para internet com JavaScript
 
 Arquitetura de Sistemas Avançado
 
+Estrutura de dados em Java
+
 Trabalhando com Banco de Dados utilizando JDBC e JPA
 
 Aprenda o que são Estrutura de Dados e Algoritmos
@@ -75,6 +81,8 @@ Shell script - Manipulando Arquivos
 Arquitetura de Sistemas Avançado
 
 Conceitos e melhores práticas com bancos de dados PostgreSQL
+
+Introdução a Qualidade de Software
 
 Projetos ágeis com SCRUM
 
