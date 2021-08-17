@@ -42,6 +42,8 @@ Boas-vindas ao Bootcamp Inter Java Developer
 
 Conceitos e melhores práticas com bancos de dados PostgreSQL
 
+Trabalhando com Git e GitLab na prática
+
 Introdução ao Node.js com Express
 
 Desenvolvimento avançado em Java
@@ -96,3 +98,4 @@ Desafio prático: Deploying Java em Kubernetes com Quarkus
 
 Expert Lesson: Introdução à LGPD
 
+Total: 50
