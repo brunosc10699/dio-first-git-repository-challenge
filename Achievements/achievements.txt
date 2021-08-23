@@ -96,6 +96,8 @@ Desenvolvimento avançado com JavaScript ES6
 
 Desafio prático: Deploying Java em Kubernetes com Quarkus
 
+Introdução aos Conceitos de API e Clean Architecture 
+
 Expert Lesson: Introdução à LGPD
 
-Total: 50
+Total: 51
